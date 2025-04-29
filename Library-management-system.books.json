@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "680b5afb9e34d928b4ed0580"
+  },
+  "title": "Learn React Quickly",
+  "author": "John Doe",
+  "isbn": "9781234567897",
+  "category": "Computer Science",
+  "coverImage": "https://marketplace.canva.com/EAFfSnGl7II/2/0/1003w/canva-elegant-dark-woods-fantasy-photo-book-cover-vAt8PH1CmqQ.jpg",
+  "totalCopies": 13,
+  "availableCopies": 9,
+  "createdAt": {
+    "$date": "2025-04-25T09:50:51.610Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T05:30:50.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee6127"
+  },
+  "title": "Mastering JavaScript",
+  "author": "Jane Smith",
+  "isbn": "9780306406157",
+  "category": "Computer Science",
+  "coverImage": "https://m.media-amazon.com/images/I/71s846uGUlL._UF1000,1000_QL80_.jpg",
+  "totalCopies": 10,
+  "availableCopies": 10,
+  "createdAt": {
+    "$date": "2025-04-25T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:06:35.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee6128"
+  },
+  "title": "The Mystery of the Old House",
+  "author": "Agatha Willow",
+  "isbn": "9781449355739",
+  "category": "Fiction",
+  "coverImage": "https://images.unsplash.com/photo-1507842217343-583bb7270b66",
+  "totalCopies": 8,
+  "availableCopies": 8,
+  "createdAt": {
+    "$date": "2025-04-25T11:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:15:33.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee6129"
+  },
+  "title": "Physics Fundamentals",
+  "author": "Albert Newmann",
+  "isbn": "9780590353427",
+  "category": "Science",
+  "coverImage": "https://images.unsplash.com/photo-1516637090014-cb1ab78511f5",
+  "totalCopies": 15,
+  "availableCopies": 15,
+  "createdAt": {
+    "$date": "2025-04-25T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:15:11.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee612a"
+  },
+  "title": "Modern Art Explained",
+  "author": "Leonard Gray",
+  "isbn": "9780525536291",
+  "category": "Non-fiction",
+  "coverImage": "https://cdn.bookey.app/files/publish-book/History-of-Modern-Art.jpg",
+  "totalCopies": 6,
+  "availableCopies": 6,
+  "createdAt": {
+    "$date": "2025-04-25T13:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:14:52.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee612b"
+  },
+  "title": "Introduction to Economics",
+  "author": "Paul Stanley",
+  "isbn": "9780131103627",
+  "category": "Business",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOslTW4eB40a6giG2Gsz6kYdHaIDftODIuA&s",
+  "totalCopies": 12,
+  "availableCopies": 12,
+  "createdAt": {
+    "$date": "2025-04-25T14:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:13:46.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee612c"
+  },
+  "title": "Travel the World",
+  "author": "Samantha Globe",
+  "isbn": "9780679720201",
+  "category": "Non-fiction",
+  "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+  "totalCopies": 7,
+  "availableCopies": 7,
+  "createdAt": {
+    "$date": "2025-04-25T15:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:15:52.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee612d"
+  },
+  "title": "Advanced Python Programming",
+  "author": "Michael Scott",
+  "isbn": "9780471117094",
+  "category": "Computer Science",
+  "coverImage": "https://m.media-amazon.com/images/I/614BCkYKMrL._AC_UF1000,1000_QL80_.jpg",
+  "totalCopies": 9,
+  "availableCopies": 9,
+  "createdAt": {
+    "$date": "2025-04-25T16:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:08:18.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee612e"
+  },
+  "title": "History of Civilizations",
+  "author": "Amelia Rich",
+  "isbn": "9780201633610",
+  "category": "History",
+  "coverImage": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6",
+  "totalCopies": 10,
+  "availableCopies": 10,
+  "createdAt": {
+    "$date": "2025-04-25T17:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:13:15.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee612f"
+  },
+  "title": "Healthy Living Guide",
+  "author": "Olivia Wellness",
+  "isbn": "9789999999999",
+  "category": "Health",
+  "coverImage": "https://images.unsplash.com/photo-1490645935967-10de6ba17061",
+  "totalCopies": 5,
+  "availableCopies": 5,
+  "createdAt": {
+    "$date": "2025-04-25T18:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T18:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e45eed700618c93ee6130"
+  },
+  "title": "Understanding Music",
+  "author": "David Tune",
+  "isbn": "9781400033416",
+  "category": "Non-fiction",
+  "coverImage": "https://images.unsplash.com/photo-1526925539332-aa3b66e35444",
+  "totalCopies": 8,
+  "availableCopies": 8,
+  "createdAt": {
+    "$date": "2025-04-25T19:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T15:16:10.389Z"
+  },
+  "__v": 0
+}]
