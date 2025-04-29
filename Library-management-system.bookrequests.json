@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "680cbf83284f5ba7424d1ef4"
+  },
+  "bookId": {
+    "$oid": "680b5afb9e34d928b4ed0580"
+  },
+  "bookTitle": "Learn React Quickly",
+  "userId": {
+    "$oid": "680a0a21a90e5f8770150614"
+  },
+  "userName": "Md Nabeel Ahemad",
+  "userEmail": "md.nabeel@txstate.edu",
+  "status": "rejected",
+  "approvedAt": {
+    "$date": "2025-04-26T11:31:43.080Z"
+  },
+  "approvedBy": {
+    "$oid": "680625a585bbd1b6484892c0"
+  },
+  "requestDate": {
+    "$date": "2025-04-26T11:12:03.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680cf2ac60d93c1d1ee536ce"
+  },
+  "bookId": {
+    "$oid": "680b5afb9e34d928b4ed0580"
+  },
+  "bookTitle": "Learn React Quickly",
+  "userId": {
+    "$oid": "680a0a21a90e5f8770150614"
+  },
+  "userName": "Md Nabeel Ahemad",
+  "userEmail": "md.nabeel@txstate.edu",
+  "status": "approved",
+  "approvedAt": {
+    "$date": "2025-04-26T14:50:59.465Z"
+  },
+  "approvedBy": {
+    "$oid": "680625a585bbd1b6484892c0"
+  },
+  "requestDate": {
+    "$date": "2025-04-26T14:50:20.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680dbc7d22bf0bbc2d52529e"
+  },
+  "bookId": {
+    "$oid": "680b5afb9e34d928b4ed0580"
+  },
+  "bookTitle": "Learn React Quickly",
+  "userId": {
+    "$oid": "680dbc4a22bf0bbc2d525285"
+  },
+  "userName": "Tonny Stack",
+  "userEmail": "tonny.stack@txstate.edu",
+  "status": "approved",
+  "approvedAt": {
+    "$date": "2025-04-27T05:11:35.437Z"
+  },
+  "approvedBy": {
+    "$oid": "680625a585bbd1b6484892c0"
+  },
+  "requestDate": {
+    "$date": "2025-04-27T05:11:25.133Z"
+  },
+  "__v": 0
+}]
