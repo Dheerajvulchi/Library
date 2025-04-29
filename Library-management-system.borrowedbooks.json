@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "680cf2d360d93c1d1ee536dc"
+  },
+  "userId": {
+    "$oid": "680a0a21a90e5f8770150614"
+  },
+  "bookId": {
+    "$oid": "680b5afb9e34d928b4ed0580"
+  },
+  "bookTitle": "Learn React Quickly",
+  "borrowDate": {
+    "$date": "2025-04-26T14:50:59.485Z"
+  },
+  "dueDate": {
+    "$date": "2025-05-17T14:50:59.485Z"
+  },
+  "returnDate": {
+    "$date": "2025-04-26T15:48:46.707Z"
+  },
+  "fineAmount": 0,
+  "fineReason": "",
+  "fineStatus": "paid",
+  "status": "returned",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680dbc8722bf0bbc2d5252b3"
+  },
+  "userId": {
+    "$oid": "680dbc4a22bf0bbc2d525285"
+  },
+  "bookId": {
+    "$oid": "680b5afb9e34d928b4ed0580"
+  },
+  "bookTitle": "Learn React Quickly",
+  "borrowDate": {
+    "$date": "2025-04-27T05:11:35.450Z"
+  },
+  "dueDate": {
+    "$date": "2025-05-11T05:11:35.450Z"
+  },
+  "returnDate": {
+    "$date": "2025-04-27T05:30:50.325Z"
+  },
+  "fineAmount": 1,
+  "fineReason": "1 day late return",
+  "fineStatus": "pending",
+  "status": "returned",
+  "__v": 0
+}]
